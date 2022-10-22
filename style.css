@@ -23,8 +23,6 @@ nav{
 .aa{
     margin-top: 20px;
     margin-left: 100px;
-    
-    
     color: darkslategray;
 
     
@@ -33,7 +31,6 @@ nav{
 }
 .menu{
     width: 40%;
-    
     margin-top: 20px;
     display: flex;
     justify-content: space-evenly;
@@ -70,7 +67,10 @@ a{
 
 }
 .A:hover{
-    width: 125px;
+    height: 40px;
+    background-color: aqua;
+    cursor: pointer;
+
     
 }
 .B{
@@ -81,8 +81,15 @@ a{
     margin-left: 20px;
     margin-top: 30px;
     background-color:gold;
+
     
     
+}
+.B:hover{
+    height: 40px;
+    background-color:#f5b45f;
+    cursor:pointer;
+
 }
 .vin{
     margin-top: 130px;

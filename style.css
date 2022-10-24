@@ -190,9 +190,30 @@ h4{
     justify-content: space-evenly;
 
 }
-.item{
-    margin-left: 20px;
-    margin-bottom: 20px;
+.item1{
+    height: 300px;
+    width: 400px;
+}
+.item2{
+    height: 300px;
+    width: 400px;
+}
+.item3{
+    height: 300px;
+    width: 400px;
+}
+.item4{
+    height: 300px;
+    width: 400px;
+}
+
+.item5{
+    height: 300px;
+    width: 400px;
+}
+.item6{
+    height: 300px;
+    width: 400px;
 }
 .shiv5{
     
@@ -231,8 +252,8 @@ ul{
     height: 30px;
     color:#F7F7F7 ;
     
-    margin-left: 330px;
-    margin-top: 30px;
+    margin-left: 80px;
+    margin-top: 110px;
     position: absolute;
     top: 1805px;
      
@@ -245,8 +266,8 @@ ul{
     width: 100px;
     height: 30px;
     color:#F7F7F7 ;
-    margin-left: 80px;
-    margin-top: 30px;
+    margin-left: 330px;
+    margin-top: 130px;
     position: absolute;
     top: 1910px;
     }
@@ -264,16 +285,16 @@ ul{
         width: 100px;
         height: 30px;
         color:#F7F7F7 ;
-        margin-left: 430px;
-        margin-top: 30px;
+        margin-left: 530px;
+        margin-top: 140px;
         position: absolute;
         top: 2050px;
 
     }
     .img5{
         position: absolute;
-        top: 1750px;
-        right: 200px;
+        top: 1770px;
+        right: 90px;
     }
     
     
@@ -291,8 +312,8 @@ ul{
     width: 400px;
     display: flex;
     justify-content: space-evenly;
-    margin-left: 900px;
-    margin-top: -40px;
+    margin-left:  1000px;
+    margin-top: -90px;
     border: 2px solid white;
 }
 

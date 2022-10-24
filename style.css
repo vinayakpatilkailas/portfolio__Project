@@ -125,6 +125,7 @@ p{
     margin-left: 850px;
     margin-top: 40px;
     color: #105652;
+    font-size: 15px;
 }
 .Y{
     height: 150px;
@@ -132,6 +133,7 @@ p{
     margin-left: 850px;
     margin-top: -10px;
     color: #105652;
+    font-size: 15px;
 }
 .shiv2{
 
@@ -163,10 +165,13 @@ h4{
     margin-top: 10px;
     margin-left: 15px;
 }
-.img3{
+.img3{ 
+    height: 50px;
+   
     display: flex;
-    justify-content: space-evenly;
+    justify-content:space-evenly;
     margin-top: 25px;
+    
 }
 .shiv4{
     
@@ -354,6 +359,25 @@ ul{
     display: flex;
     justify-content: space-evenly;
 }
+#pratiksha{
+    height: 190px;
+    width: 170px;
+   margin-top: 20px;
+   border-radius: 50%;
+
+}
+#bhashkar{
+    height: 190px;
+    width: 180px;
+   margin-top: 10px;
+   border-radius: 50%;
+}
+#Dipak{
+    height: 190px;
+    width: 180px;
+   margin-top: 10px;
+   border-radius: 50%;
+}
 .pra{
     margin-left: 160px;
     margin-top: 20px;
@@ -361,13 +385,13 @@ ul{
 
 }
 .pra1{
-    margin-left: 500px;
+    margin-left: 470px;
     color: #105652;
-    margin-top:-40px;
+    margin-top:-60px;
 }
 .pra2{
     margin-left: 810px;
-    margin-top: -40px;
+    margin-top: -50px;
     color: #105652;
 }
 .pra3{
@@ -379,6 +403,7 @@ ul{
     height: 100px;
     width: 200px;
     margin-top: 20px;
+    margin-left: 50px;
 }
 #vin1{
     color: #105652;
@@ -390,7 +415,7 @@ ul{
     color: #105652;
     height: 100px;
     width: 200px;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 .pra4{
     height: 60px;

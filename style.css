@@ -272,7 +272,24 @@ ul{
      
 
      
+}
+#line{
+    position: absolute;
+    height: 102px;
+    width: 3px;
+    margin-top: -55px;
+    margin-left: 36px;
+    background-color: #105652;
+    
 } 
+#line1{
+    height: 100px;
+    width: 3px;
+    margin-top: -80px;
+    margin-left: -14px;
+    background-color: #105652;
+
+}
 .N{ border: 2px solid #FCA738;
     background-color: #FCA738;
     border-radius: 20px;

@@ -3,10 +3,11 @@
 
 }
 .container{
-    border: 2px solid;
+   
     height: 100vh;
     width: 100%;
 }
+
 
 
 nav{
@@ -17,6 +18,9 @@ nav{
     justify-content: space-between;
     position:fixed ;
     width: 100%;
+    position: absolute;
+    z-index: 1;
+    border: 1px solid beige;
     
 
     
@@ -47,12 +51,13 @@ a{
     color: chocolate;
 }
 .shiv{
-    width: 100%;
+    width: 99.99%;
     height: 480px;
-    border: 2px solid white;
+    border: 1px solid white;
      font-weight: bold;
     font-size: large;
     background-color:rgb(7, 63, 73);
+    /* border: 1px solid yellow; */
 
 
 
@@ -114,9 +119,11 @@ p{
 }
 .vin2{
     height: 500px;
-    width: 100%;
-    border: 2px solid #F7F7F7;
+    width: 99.90%;
+    border: 1px solid beige;
+  
     background-color:#F7F7F7;
+    /* border: 2px solid yellow; */
 
 }
 .Z{
@@ -143,6 +150,7 @@ p{
     border-bottom: 10px solid#FCA738;
     padding: 10px;
     width: 15%;
+    
     
 }
 .img2{
@@ -175,9 +183,9 @@ h4{
 }
 .shiv4{
     
+    border: 1px solid beige;
+    width: 99.90%;
    
-    width: 100%;
-    border: 2px solid white;
 
 }
 .W{
@@ -221,9 +229,9 @@ h4{
     width: 400px;
 }
 .shiv5{
-    
-    width:100%;
-    border: 2px solid white;
+    /* border: 1px solid beige; */
+    width:99.99%;
+   
 }
 .S{
     color: #105652;
@@ -332,10 +340,10 @@ ul{
 
 }
 .shiv6{
-    width: 100%;
-    
-    border: 2px solid white;
-
+    width: 99.9%;
+    /* border: 1px solid beige; */
+  
+  
 }
 .dish{
     color: #105652;
@@ -420,7 +428,7 @@ ul{
 .pra4{
     height: 60px;
     width: 100%;
-    border: 1px solid  #FBF3E4;
+   
     margin-top: 70px;
     background-color: #FBF3E4;
 
@@ -432,9 +440,8 @@ ul{
     
 }
 .shiv7{
-    width: 100%;
-    
-    border: 2px solid white;
+    width: 99.90%;
+    border: 1px solid beige;
     margin-top: 40px;
 }
 #kittu{
@@ -519,27 +526,24 @@ ul{
 }
 .sun{
     margin-left: 150px;
+  
 }
+.name{
+    height: 23px;
+    width: 200px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+
 #lap1{
     width: 150px;
     height: 30px;
     margin-top: 60px;
     background-color: #FCA738;
 }
+
+@media (min-width:320px) and (max-width:480px){
     
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
+}

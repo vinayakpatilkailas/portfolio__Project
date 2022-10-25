@@ -57,39 +57,43 @@ a{
 
 
 }
-.A{
-    height: 40px;
+#Hireme{
+    border: 2px solid rgb(149, 189, 189);
+    height: 20px;
     width: 120px;
-    border: 2px solid skyblue;
-    border-radius: 8px;
-    margin-top: 50px;
-    background-color: skyblue;
-    
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(199, 237, 237);
+    color: #105652;
+    margin-top: 20px;
+    border-radius: 5px;
+
 
 }
-.A:hover{
-    height: 40px;
-    background-color: aqua;
+#Hireme:hover{
+     background-color: aqua;
+     cursor: pointer;
+}
+#Cv{
+    color: #105652;
+    height: 20px;
+    width: 110px;
+    border: 2px solid rgb(233, 233, 135);
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 170px;
+    margin-top: -45px;
+    background-color: rgb(232, 212, 102);
+
+
+
+
+}
+#Cv:hover{
+    background-color: rgb(246, 210, 4);
     cursor: pointer;
 
-    
-}
-.B{
-    height: 40px;
-    width: 120px;
-    border: 2px solid gold;
-    border-radius: 8px;
-    margin-left: 20px;
-    margin-top: 30px;
-    background-color:gold;
-
-    
-    
-}
-.B:hover{
-    height: 40px;
-    background-color:#f5b45f;
-    cursor:pointer;
 
 }
 .vin{

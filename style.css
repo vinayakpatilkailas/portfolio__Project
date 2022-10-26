@@ -562,7 +562,7 @@ ul{
   
 }
 .name{
-    height: 23px;
+    height: 30px;
     width: 200px;
     border-radius: 5px;
     border: none;
@@ -571,9 +571,10 @@ ul{
 
 
 #lap1{
-    height: 15px;
-    width: 150px;
-    border: 2px solid none;
+    height: 40px;
+    width: 160px;
+    border: 2px solid;
+    border: none;
     border-radius: 5px;
     text-align: center;
     padding: 10px;

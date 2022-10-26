@@ -555,11 +555,24 @@ ul{
 
 
 #lap1{
+    height: 15px;
     width: 150px;
-    height: 30px;
-    margin-top: 60px;
-    background-color: #FCA738;
+    border: 2px solid none;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 150px;
+    margin-top: 20px;
+     font-size: 15px;
+     color: #105652;
+    background-color: #fcc57dc0;
+
 }
+#lap1:hover{
+    cursor: pointer;
+    background-color: orange;
+}
+
 
 @media (min-width:320px) and (max-width:480px){
     

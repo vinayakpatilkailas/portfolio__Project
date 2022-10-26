@@ -75,8 +75,10 @@ a{
     padding: 10px;
     background-color: rgb(199, 237, 237);
     color: #105652;
-    margin-top: 20px;
+    margin-top: 0px;
     border-radius: 5px;
+    position: absolute;
+    z-index: 20;
 
 
 }
@@ -93,8 +95,10 @@ a{
     text-align: center;
     padding: 10px;
     margin-left: 170px;
-    margin-top: -45px;
+    margin-top: 0px;
     background-color: rgb(232, 212, 102);
+    position: absolute;
+    z-index: 20;
 }
 #Cv:hover{
     background-color: rgb(246, 210, 4);
@@ -103,7 +107,10 @@ a{
 
 }
 .svg{
-    margin-top: -180px;
+    margin-top: -140px;
+    
+    position: absolute;
+    z-index: 10;
 }
 .vin{
     margin-top: 130px;
@@ -122,8 +129,9 @@ p{
 }
 .img{
     position: absolute;
+    z-index: 20;
     right: 200px;
-    top: 126px;
+    top: 105px;
 }
 .vin2{
     height: 550px;

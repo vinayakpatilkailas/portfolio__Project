@@ -28,11 +28,16 @@ nav{
 .aa{
     margin-top: 20px;
     margin-left: 100px;
-    color: darkslategray;
+}
+#Logov{
+    color: #105652;
+    font-size: 25px;
 
+}
+#Logov:hover{
+    color:orangered;
+    cursor: pointer;
     
-
-
 }
 .menu{
     width: 40%;
